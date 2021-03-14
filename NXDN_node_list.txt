@@ -1,0 +1,103 @@
+9999|||Unlink
+202|||202 HELLAS Zone
+214|||214 RED SPAIN
+226|||226 Romania YO NXDN Network
+260|||260 HBLink  Poland
+302|||302 P25 Canada
+420|||420 Super Freq
+505|||505 VKCore
+530|||530 New Zealand
+545|||545 XLX545E PA
+707|||707 RuralMN Reflector
+730|||730 Chile NXDN Reflector to BM TG 730
+911|||911 Cop Talk, Multimode TG for Police and First Responders
+914|||914 Latin America
+1200|||1200 Florida
+2140|||2140 DMRplus BM Multi
+2225|||2225  IT Tuscany
+2231|||2231  IT Multiprotocollo Sardegna
+2241|||2241 IT TUSCANY MULTIP
+2249|||2249 IT SICILIA
+2263|||2263 Bucharest YO3 NXDN Network
+2265|||2265 Baia Mare YO5 NXDN Network
+2503|||2503 RU DMR
+2700|||2700 Melbourne FL
+3023|||3023 Ontario Crosslink
+3142|||3142 Pennsylvania
+3300|||PRadise
+5057|||5057 VK7 TAS
+7160|||7160 Peru Digital
+7225|||7225 Multiprotocolo Argentina
+7309|||7309 CHILE-LINK NXDN Reflector to BM TG 73099
+9480|||9480 ICQPODCAST
+9846|||9846 NXDN Portal to WW8GM YSF network www.gmarc.org 
+10200|||10200 North America
+10301|||10301 HBLINK Espana
+10302|||10302 Multimode BM 21461 EA Spain
+10303|||10303 Italian speaking
+10304|||10304 REM-ADER Spain Group
+10400|||Pacific, 10400
+10922|||10922 CQ-UK
+20000|||20000 Europe, German speaking
+20201|||20201 NXDN Athens GR HBLink
+20328|||20328 NXDN German Pegasus Project 
+20421|||20421 DL-Nordwest (dl-nordwest.com) by 9V1LH/DG1BGS and DK5BS
+20945|||20945 Deutschland DL1BH
+21410|||21410 NXDN SPAIN
+21418|||21418 NXDN RC Veleta
+21430|||21430 Alcayna
+21465|||21465 ADER Multimode
+22200|||22200 IT HBLINK ITALY
+22202|||22202 IT SARDINIA
+22221|||22221 HBLINK IT-DMR REGIONALE LOMBARDIA
+22245|||22245 IT PIEDMONT GDO
+22252|||22252 IT MULTIPROTOCOL NETWORK
+22258|||22258 D2ALP HBLink Italia
+22292|||22292 IT MP XLX039/B BM2222
+22825|||22825 Swiss NXDN Reflerctor
+23426|||23426 FreeSTAR NXDN Reflerctor
+23551|||23551 NXDN Scotland
+25000|||25000 NX Core
+25577|||25577 UA Azimuth
+25617|||25617 Russia Kavkaz
+25641|||25641 Russia NXDN Net
+26000|||26000 Poland
+26079|||26079 NXDN Poland local Group Reflector
+26085|||26085 Poland DMR+
+26200|||26200 Deutschland
+26810|||26810 Portuguese speaking test
+28299|||28299 America-Ragchew
+30639|||30639 NorCal-Bridge / Multimode-NXDN
+31010|||31010 Alabama-Link
+31031|||31031 XLX310 Multimode Reflector
+31081|||31081 Colorado Fun Machine WE0FUN Bridge to C4FM, DMR, DStar, P25 and AllStarLink (Analog) http://www.we0fun.com
+31088|||31088 Colorado HD
+31092|||31092 Connecticut Chat
+31137|||31137 Kingsland Digital Link
+31171|||31171 Illinois
+31188|||31188 Southern Indiana
+31264|||31264 XLX625 The BROniverse www.wa8bro.com
+31340|||31340 Central New Jersey
+31403|||31403 Oklahoma Link
+31425|||31425 XLX545A Pennsylvania Cross Mode
+31426|||31426 XLX545A Pennsylvania Cross Mode (alt)
+31444|||31444 Rhode Island Digital Link
+31665|||31665 TGIF Network
+31672|||31672 Pi-Star
+31769|||31769 MB6NG NXDN
+31777|||31777 DX-LINK SYSTEM,
+31983|||31983 K8JTK Hub Multimode ILS/DVMIS (K8JTK.org)
+32103|||32103 CW-Ops Academy
+33581|||33581 OMISS Group
+37224|||37224 Haiti NXDN
+40721|||40721 Fusion Canada Fr /Wires-x /Ysf /Nxdn Network
+45000|||45000 Korea
+46000|||46000 China
+43389|||43389 SouthEast Link
+50525|||50525 DMR TG50525 bridge
+50599|||50599 BM NXCore bridge
+52000|||52000 Thailand DTDXA XLX520N
+53099|||53099 New Zealand, 53099 linked to BM TG 53099
+65000|||65000 World Wide
+65100|||65100 NXDN - 2007DXGROUP
+65208|||65208 French-Test
